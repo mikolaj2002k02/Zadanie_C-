@@ -1,0 +1,3 @@
+Pierwszy: 24
+Drugi:129
+Trzeci:130
